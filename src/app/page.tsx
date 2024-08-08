@@ -19,12 +19,15 @@ export default function Home() {
         <PostOwnner></PostOwnner>
         
         {/* Comment Example */}
-        <Comment></Comment>
+       
 
         {/* Reply Example */}
-        <Reply></Reply>
+        
 
         {/* map-loop render Comment component here */}
+        <Comment></Comment>
+
+        <Reply></Reply>
       </div>
     </div>
   );

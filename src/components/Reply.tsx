@@ -20,7 +20,7 @@ export default function Reply({ ImagePath, username, replyTitle, likes }:ReplyPr
             <br />
             <span>จริงค้าบบบบบบบบ</span>
             <div className="d-flex align-items-center gap-1">
-              <img src="/like.svg" width={20}></img>
+              <img src="/profileImages/like.svg" width={20}></img>
               <span className="text-muted">2 คน</span>
             </div>
           </div>

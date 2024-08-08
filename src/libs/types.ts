@@ -3,8 +3,8 @@
 interface CommentProps{
     userImagePath: string;
     username: string;
-    commentTitle: string;
-    likes: number;
+    commentText: string;
+    likeNum: number;
     replies: ReplyProps[];
 
 }
